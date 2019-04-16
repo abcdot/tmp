@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/* Linux Ctrl + D
+ *
+ * Windows Ctrl + Z
+ *
+ */
 int main() {
     int c;
     c = getchar();
